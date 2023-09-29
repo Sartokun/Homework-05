@@ -11,7 +11,7 @@ MDT211: Computer Programming for Media II (Homework 05)
 *โปรดอ่านคำอธิบายและทดลองเขียนและทำความเข้าใจด้วยตัวเองก่อน หากไม่เข้าใจสามารถถามมาได้ผมจะตอบในช่วงที่สามารถตอบได้
 
 *โดยมีโค้ดที่อาจารเขียนมาให้แล้วบางส่วน เราก็แค่เพิ่ม method Find เข้าไปจากโค้ดที่อาจารส่งมา
--Download Code สำหรับการบ้านได้ที่นี่
+- Download Code สำหรับการบ้านได้ที่นี่
 https://drive.google.com/file/d/1k8GQgoe2Xg9NNR_V_MMSg54su-4JUqek/view?usp=drive_link
 
 **Trick(เล็กๆน้อยๆ)**
